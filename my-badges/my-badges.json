@@ -1,0 +1,79 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/krish300/settle/commit/a45645f5c26fb43e8119ff8d7f3f41ab9e3ca458\"><strong>a</strong>45645f5c26fb43e8119ff8d7f3f41ab9e3ca458</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"from\".",
+    "body": "My favorite commit message words are:\n\n1. from (used 155 times)\n2. bump (used 110 times)\n3. in (used 110 times)\n4. to (used 103 times)\n5. /frontend (used 66 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/denisenkom/pytds/issues/56\">#56</a>: Doesn't support AlwaysOn",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
+  },
+  {
+    "id": "old-issue-6",
+    "tier": 6,
+    "desc": "I closed an issue that was open for 6 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/tddbin/katas/issues/28\">#28</a>: Solution for Kata 40 freezes the browser tab",
+    "image": "https://my-badges.github.io/my-badges/old-issue-6.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/denisenkom/pytds/issues/57\">#57</a>: fetchall() after UPDATE operation throws pytds.tds.Error\n- <a href=\"https://github.com/denisenkom/pytds/issues/56\">#56</a>: Doesn't support AlwaysOn\n- <a href=\"https://github.com/bluz71/vim-moonfly-colors/issues/30\">#30</a>: [feature request] bold highlights\n- <a href=\"https://github.com/VonHeikemen/lsp-zero.nvim/issues/75\">#75</a>: [Feature Request] support cmp-cmdline",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/krish300/settle/commit/3f3d75e8693daa5a5514e2a99485c75b9864055e\">3f3d75e</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/arabindadora/sylveons/commit/5727c68cbc8da9c74c8da2c2bb4240226432869a\">5727c68</a>\n- <a href=\"https://github.com/arabindadora/cillers-project/commit/efbf05d0c2a67f09d4414ff6a2f1430d1a30fd93\">efbf05d</a>\n- <a href=\"https://github.com/arabindadora/cillers-project/commit/ddcd20202f699cd3b2629521ef191f9b1a79a8cb\">ddcd202</a>\n- <a href=\"https://github.com/arabindadora/sylveons/commit/6c4e77506e5a9620e29086975c5e4489a89a735f\">6c4e775</a>\n- <a href=\"https://github.com/arabindadora/sylveons/commit/ac1628e6ea4d06042e173b7f67b40cd61bd19bba\">ac1628e</a>\n- <a href=\"https://github.com/arabindadora/cillers-project/commit/54110a418130b046c8498201626e7d4401d9a311\">54110a4</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
